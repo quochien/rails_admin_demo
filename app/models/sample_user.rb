@@ -1,0 +1,3 @@
+class SampleUser < ApplicationRecord
+
+end
